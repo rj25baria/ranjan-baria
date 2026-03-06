@@ -65,14 +65,6 @@ A learning platform UI redesigned during my internship using React.js and TypeSc
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjanbaria&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanbaria&layout=compact)
-
----
-
 ## 📬 Contact
 
 🌐 Portfolio: https://portfolio-wi28.vercel.app/  
